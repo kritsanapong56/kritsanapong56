@@ -2,11 +2,8 @@
 
 Flutter Firebase NoSQL : register
 
-## Developer
-
 กฤษณพงศ์ พงศ์มณเฑียร 62020471
 
-### Order
 ![16 10 2021_23 03 10_REC](https://user-images.githubusercontent.com/92374367/137594369-dcb33868-235e-43da-a248-ea2b07a3cba6.png)
 
 
