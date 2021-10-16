@@ -1,0 +1,2 @@
+เป็นการสร้างบัญชีผู้ใช้ในFirebase เมื่อผู้ใช้กดปุ่มลงทะเบียน กรอกe-mail,password เมื่อผู้ใช้กดลงทะเทียน ข้อมูลe-mail,password จะเก็บลงในobject profile นำข้อมูลในobject profile 
+เข้าไปทำงานในFirebase ให้ทำการสร้างบัญชีผู้ใช้ขึ้นมาตาม e-mail,password ที่กรอกไว้
