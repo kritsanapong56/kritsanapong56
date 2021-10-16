@@ -6,12 +6,6 @@ Flutter Firebase NoSQL : register
 
 กฤษณพงศ์ พงศ์มณเฑียร 62020471
 
-## System
-
-- Croissants Application.
-- Croissant is the best bread ever !
-- Premium French Croissant !
-
 ### Order
 
 [![245034928-580621302990443-847836089623680680-n.jpg](https://i.postimg.cc/8knGLjLq/245034928-580621302990443-847836089623680680-n.jpg)](https://postimg.cc/c6YPS19m)
