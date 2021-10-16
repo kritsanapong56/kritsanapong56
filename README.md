@@ -1,6 +1,6 @@
 # firebase_flutter
 
-Flutter Firebase NoSQL : Croissants
+Flutter Firebase NoSQL : register
 
 ## Developer
 
