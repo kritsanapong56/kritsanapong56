@@ -8,7 +8,7 @@ Flutter Firebase NoSQL : register
 
 ### Order
 
-[![245034928-580621302990443-847836089623680680-n.jpg](https://postimg.cc/6ybTrxTh)
+[![216.10.2021_23.03.10_REC.png](https://postimg.cc/6ybTrxTh)
 
 - หน้าจอหลัก register
 - แสดงหน้าสร้างบัญชีผู้ใช้
