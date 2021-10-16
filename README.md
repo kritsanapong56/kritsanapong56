@@ -4,11 +4,13 @@ Flutter Firebase NoSQL : register
 
 กฤษณพงศ์ พงศ์มณเฑียร 62020471
 
+หน้าจอหลัก
+![16 10 2021_23 09 56_REC](https://user-images.githubusercontent.com/92374367/137594551-802bb310-d7e1-419b-8f1f-e0cb64466fc3.png)
+
+
 ![16 10 2021_23 03 10_REC](https://user-images.githubusercontent.com/92374367/137594369-dcb33868-235e-43da-a248-ea2b07a3cba6.png)
 
-
-
-- หน้าจอหลัก register
+- หน้าregister
 - แสดงหน้าสร้างบัญชีผู้ใช้
 
 
